@@ -6,7 +6,7 @@ Systems & network administrator in training, moving toward cybersecurity.
 $ whoami
 apprentice sysadmin — RNCP Level 6, France
 next: master's in cybersecurity, 2027
-long game: post-quantum cryptography
+long game: Principal Security Engineer / Blue Team / Red Team
 ```
 
 Split my time between infrastructure work — Proxmox, Ansible, PostgreSQL
