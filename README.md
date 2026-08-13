@@ -1,16 +1,29 @@
-## Hi there 👋
+### Pierre-Louis Coluccia
 
-<!--
-**DiOo-commits/DiOo-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems & network administrator in training, moving toward cybersecurity.
 
-Here are some ideas to get you started:
+```
+$ whoami
+apprentice sysadmin — RNCP Level 6, France
+next: master's in cybersecurity, 2027
+long game: post-quantum cryptography
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Split my time between infrastructure work — Proxmox, Ansible, PostgreSQL
+audits — and offensive security through CTFs (OSINT, forensics, network
+exploitation).
+
+---
+
+**Working on**
+- Homelab: 5-VLAN architecture, Wazuh / TheHive / Velociraptor
+- Database audit methodology (Ansible-driven)
+- RNCP competency tracking across 65 professional competencies
+
+**Studying**
+- Post-quantum cryptography, starting from the math up
+- Qiskit / quantum computing fundamentals
+
+---
+
+Repos going up as projects reach a state worth sharing.
